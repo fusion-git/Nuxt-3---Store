@@ -1,42 +1,26 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 - Fusion store
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). Version used for this project 20.17.0 LTS. <br /> <br /> 
 
-## Setup
+For setup open the terminal and run the fallowing commands: 
 
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
+## Project setup
 ```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
+npm install
+```
+   
+### Compiles and hot-reloads for development
+```
 npm run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
+### Compiles and minifies for production
+```
 npm run build
 ```
-
-Locally preview production build:
-
-```bash
+### Preview the production bundle
+```
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+![imgage alt](image url)
