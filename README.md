@@ -23,4 +23,4 @@ npm run build
 npm run preview
 ```
 
-![imgage alt](image url)
+![imgage alt](https://github.com/fusion-git/Nuxt-3---Store/blob/300d2c255f4d56c6f4cc297d180bd1aa9ca75880/Screenshot.png)
