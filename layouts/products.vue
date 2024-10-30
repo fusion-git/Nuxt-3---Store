@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="shadow-sm bg-white px-4">
-      <nav class="container mx-auto p-4 flex justify-center border-t-2 sm:justify-between">
+      <nav class="container w-5/6 mx-auto p-4 flex justify-center border-t-2 sm:justify-between">
         <NuxtLink to="/products" class="font-bold hidden sm:block">Fusion Merch</NuxtLink>
         <ul class="flex gap-4">
           <li><NuxtLink to="/">Home</NuxtLink></li>
@@ -10,7 +10,7 @@
         </ul>
       </nav>
     </header>
-    <div class="container mx-auto p-4">
+    <div class="container mx-auto p-4 w-5/6">
       <slot />
     </div>
     <footer class="container mx-auto p-4 flex justify-center border-t-2">
