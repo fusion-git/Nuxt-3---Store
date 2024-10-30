@@ -1,8 +1,8 @@
 <template>
   <div>
-    <header class="shadow-sm bg-white">
-      <nav class="container mx-auto p-4 flex justify-between items-center">
-        <NuxtLink to="/" class="font-bold">Fusion Store</NuxtLink>
+    <header class="shadow-sm bg-white px-4">
+      <nav class="container mx-auto p-4 flex justify-center items-center sm:justify-between">
+        <NuxtLink to="/" class="font-bold hidden sm:block">Fusion Store</NuxtLink>
         <ul class="flex gap-4 items-center">
           <li><NuxtLink to="/">Home</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>

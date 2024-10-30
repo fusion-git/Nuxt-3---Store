@@ -1,8 +1,8 @@
 <template>
   <div>
-    <header class="shadow-sm bg-white">
-      <nav class="container mx-auto p-4 flex justify-between border-t-2">
-        <NuxtLink to="/products" class="font-bold">Fusion Merch</NuxtLink>
+    <header class="shadow-sm bg-white px-4">
+      <nav class="container mx-auto p-4 flex justify-center border-t-2 sm:justify-between">
+        <NuxtLink to="/products" class="font-bold hidden sm:block">Fusion Merch</NuxtLink>
         <ul class="flex gap-4">
           <li><NuxtLink to="/">Home</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>
