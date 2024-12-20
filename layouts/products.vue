@@ -14,7 +14,7 @@
       <slot />
     </div>
     <footer class="container mx-auto p-4 flex justify-center border-t-2">
-      <p>Copyrigh @ 2024</p>
+      <p>Copyright @ 2024</p>
       <div class="flex justify-"></div>
     </footer>
   </div>
